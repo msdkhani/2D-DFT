@@ -22,7 +22,7 @@ The basis functions are sine and cosine waves with increasing frequencies, i.e. 
 
 In a similar way, the Fourier image can be re-transformed to the spatial domain. The inverse Fourier transform is given by:
 
-<img src="https://render.githubusercontent.com/render/math?math=X_{lm} = \frac{1}{N} \frac{1}{M}  \sum_{j=0}^{N-1}\sum_{k=0}^{M-1}X_{jk} e^{ 2\pi i (\frac{jl}{N}+\frac{km}{M})}">
+<img src="https://render.githubusercontent.com/render/math?math=X_{lm} = \frac{1}{N} \frac{1}{M}  \sum_{j=0}^{N-1}\sum_{k=0}^{M-1}X_{jk} e^{ 2\pi i (\frac{jl}{N}%2B\frac{km}{M})}">
 
 
 
